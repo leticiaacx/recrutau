@@ -1,4 +1,3 @@
-import recrutauLogo from "@/assets/recrutau-logo.png";
 import { Button } from "./ui/button";
 
 const Footer = () => {
@@ -29,8 +28,7 @@ const Footer = () => {
           
           <div className="flex flex-col items-center">
             <h3 className="font-bold text-lg mb-4">Vagas divulgadas por:</h3>
-            <img src={recrutauLogo} alt="RecrutAÚ - Stone Franquias" className="h-16 mb-4" />
-            <p className="font-bold text-lg">RecrutAÚ - Stone Franquias</p>
+            <p className="font-bold text-xl">RecrutAÚ - Stone Franquias</p>
           </div>
           
           <div>
