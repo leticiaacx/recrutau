@@ -19,7 +19,7 @@ const benefits = [
   },
   {
     icon: Zap,
-    title: "Vale Combustível",
+    title: "Auxílio Mobilidade",
     description: "Suporte para suas atividades externas."
   }
 ];

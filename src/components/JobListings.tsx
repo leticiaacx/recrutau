@@ -7,9 +7,17 @@ const jobs = [
     city: "Mãe do Rio, PA",
     franchise: "Franquia de São Miguel do Guamá",
     position: "Agente Comercial",
-    description: "Leve soluções financeiras aos lojistas, trabalhando nas ruas e apresentando uma nova realidade empreendedora. Atue na prospecção, gestão de carteira e entrega de atendimento de excelência.",
+    description: "O Agente Stone é responsável por levar soluções financeiras aos lojistas brasileiros. Tem diariamente como escritório as ruas do país, apresentando aos donos e donas de negócios uma nova realidade empreendedora.",
+    activities: [
+      "Prospectar novos clientes na rota do polo",
+      "Gerenciar carteira de clientes ativos e pós-venda",
+      "Participar das matinais diárias do time",
+      "Entregar atendimento de excelência ao cliente"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Ter CNH",
+      "Experiência com vendas (desejável)",
       "Ensino Superior completo ou cursando (desejável)"
     ],
     link: "https://saomiguel.rhinoagencia.com.br/vagas"
@@ -18,9 +26,17 @@ const jobs = [
     city: "Santarém, PA",
     franchise: "Franquia de Santarém",
     position: "Agente Comercial",
-    description: "Leve soluções financeiras aos lojistas, trabalhando nas ruas e apresentando uma nova realidade empreendedora. Atue na prospecção, gestão de carteira e entrega de atendimento de excelência.",
+    description: "O Agente Stone é responsável por levar soluções financeiras aos lojistas brasileiros. Tem diariamente como escritório as ruas do país, apresentando aos donos e donas de negócios uma nova realidade empreendedora.",
+    activities: [
+      "Prospectar novos clientes na rota do polo",
+      "Gerenciar carteira de clientes ativos e pós-venda",
+      "Participar das matinais diárias do time",
+      "Entregar atendimento de excelência ao cliente"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Ter CNH",
+      "Experiência com vendas (desejável)",
       "Ensino Superior completo ou cursando (desejável)"
     ],
     link: "https://santarem.rhinoagencia.com.br/vagas"
@@ -29,10 +45,20 @@ const jobs = [
     city: "Santarém, PA",
     franchise: "Franquia de Santarém",
     position: "Operador Logístico",
-    description: "Atenda clientes nos pontos de venda, entregando maquininhas e orientando na utilização. Realize gestão de estoque, logística reversa e treinamentos aos donos de negócios.",
+    description: "O Operador Logístico (Green Angel) atende clientes em seus pontos de venda, entregando maquininhas e ajudando na utilização dos produtos. Faz parte da logística própria da Stone, planejando e gerenciando toda a cadeia logística.",
+    activities: [
+      "Entregar maquininhas aos clientes",
+      "Orientar clientes na utilização dos produtos",
+      "Oferecer treinamento aos donos de negócios",
+      "Gerir estoque e realizar logística reversa",
+      "Organizar e inventariar o estoque",
+      "Fazer ordens de serviço externas"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Disponibilidade para atividades externas",
-      "Organização e gestão de estoque"
+      "Organização e gestão de estoque",
+      "Experiência com entregas (desejável)"
     ],
     link: "https://santarem.rhinoagencia.com.br/vagas"
   },
@@ -40,10 +66,20 @@ const jobs = [
     city: "Pacajus, CE",
     franchise: "Franquia de Pacajus",
     position: "Operador Logístico",
-    description: "Atenda clientes nos pontos de venda, entregando maquininhas e orientando na utilização. Realize gestão de estoque, logística reversa e treinamentos aos donos de negócios.",
+    description: "O Operador Logístico (Green Angel) atende clientes em seus pontos de venda, entregando maquininhas e ajudando na utilização dos produtos. Faz parte da logística própria da Stone, planejando e gerenciando toda a cadeia logística.",
+    activities: [
+      "Entregar maquininhas aos clientes",
+      "Orientar clientes na utilização dos produtos",
+      "Oferecer treinamento aos donos de negócios",
+      "Gerir estoque e realizar logística reversa",
+      "Organizar e inventariar o estoque",
+      "Fazer ordens de serviço externas"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Disponibilidade para atividades externas",
-      "Organização e gestão de estoque"
+      "Organização e gestão de estoque",
+      "Experiência com entregas (desejável)"
     ],
     link: "https://pacajus.rhinoagencia.com.br/vagas"
   },
@@ -51,9 +87,17 @@ const jobs = [
     city: "Aracati, CE",
     franchise: "Franquia de Aracati",
     position: "Agente Comercial",
-    description: "Leve soluções financeiras aos lojistas, trabalhando nas ruas e apresentando uma nova realidade empreendedora. Atue na prospecção, gestão de carteira e entrega de atendimento de excelência.",
+    description: "O Agente Stone é responsável por levar soluções financeiras aos lojistas brasileiros. Tem diariamente como escritório as ruas do país, apresentando aos donos e donas de negócios uma nova realidade empreendedora.",
+    activities: [
+      "Prospectar novos clientes na rota do polo",
+      "Gerenciar carteira de clientes ativos e pós-venda",
+      "Participar das matinais diárias do time",
+      "Entregar atendimento de excelência ao cliente"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Ter CNH",
+      "Experiência com vendas (desejável)",
       "Ensino Superior completo ou cursando (desejável)"
     ],
     link: "https://aracati.rhinoagencia.com.br/vagas"
@@ -62,9 +106,17 @@ const jobs = [
     city: "Uruaçu, GO",
     franchise: "Franquia de Uruaçu",
     position: "Agente Comercial",
-    description: "Leve soluções financeiras aos lojistas, trabalhando nas ruas e apresentando uma nova realidade empreendedora. Atue na prospecção, gestão de carteira e entrega de atendimento de excelência.",
+    description: "O Agente Stone é responsável por levar soluções financeiras aos lojistas brasileiros. Tem diariamente como escritório as ruas do país, apresentando aos donos e donas de negócios uma nova realidade empreendedora.",
+    activities: [
+      "Prospectar novos clientes na rota do polo",
+      "Gerenciar carteira de clientes ativos e pós-venda",
+      "Participar das matinais diárias do time",
+      "Entregar atendimento de excelência ao cliente"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Ter CNH",
+      "Experiência com vendas (desejável)",
       "Ensino Superior completo ou cursando (desejável)"
     ],
     link: "https://uruacu.rhinoagencia.com.br/vagas"
@@ -73,9 +125,17 @@ const jobs = [
     city: "Santa Maria de Jetibá, ES",
     franchise: "Franquia de Santa Maria de Jetibá",
     position: "Agente Comercial",
-    description: "Leve soluções financeiras aos lojistas, trabalhando nas ruas e apresentando uma nova realidade empreendedora. Atue na prospecção, gestão de carteira e entrega de atendimento de excelência.",
+    description: "O Agente Stone é responsável por levar soluções financeiras aos lojistas brasileiros. Tem diariamente como escritório as ruas do país, apresentando aos donos e donas de negócios uma nova realidade empreendedora.",
+    activities: [
+      "Prospectar novos clientes na rota do polo",
+      "Gerenciar carteira de clientes ativos e pós-venda",
+      "Participar das matinais diárias do time",
+      "Entregar atendimento de excelência ao cliente"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Ter CNH",
+      "Experiência com vendas (desejável)",
       "Ensino Superior completo ou cursando (desejável)"
     ],
     link: "https://santamariadojetiba.rhinoagencia.com.br/vagas"
@@ -84,10 +144,20 @@ const jobs = [
     city: "Santa Maria de Jetibá, ES",
     franchise: "Franquia de Santa Maria de Jetibá",
     position: "Operador Logístico",
-    description: "Atenda clientes nos pontos de venda, entregando maquininhas e orientando na utilização. Realize gestão de estoque, logística reversa e treinamentos aos donos de negócios.",
+    description: "O Operador Logístico (Green Angel) atende clientes em seus pontos de venda, entregando maquininhas e ajudando na utilização dos produtos. Faz parte da logística própria da Stone, planejando e gerenciando toda a cadeia logística.",
+    activities: [
+      "Entregar maquininhas aos clientes",
+      "Orientar clientes na utilização dos produtos",
+      "Oferecer treinamento aos donos de negócios",
+      "Gerir estoque e realizar logística reversa",
+      "Organizar e inventariar o estoque",
+      "Fazer ordens de serviço externas"
+    ],
     requirements: [
+      "Ensino médio completo",
       "Disponibilidade para atividades externas",
-      "Organização e gestão de estoque"
+      "Organização e gestão de estoque",
+      "Experiência com entregas (desejável)"
     ],
     link: "https://santamariadojetiba.rhinoagencia.com.br/vagas"
   }
@@ -116,14 +186,29 @@ const JobListings = () => {
                 <CardTitle className="text-2xl">{job.position}</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground mb-4">{job.description}</p>
+                <div className="mb-4">
+                  <h4 className="font-semibold mb-2">O que faz?</h4>
+                  <p className="text-muted-foreground text-sm">{job.description}</p>
+                </div>
+                
+                <div className="mb-4">
+                  <h4 className="font-semibold mb-2">Atividades do dia a dia:</h4>
+                  <ul className="space-y-1">
+                    {job.activities.map((activity, idx) => (
+                      <li key={idx} className="text-sm text-muted-foreground flex items-start">
+                        <span className="mr-2 text-primary">•</span>
+                        {activity}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
                 
                 <div className="mb-6">
                   <h4 className="font-semibold mb-2">Requisitos:</h4>
                   <ul className="space-y-1">
                     {job.requirements.map((req, idx) => (
                       <li key={idx} className="text-sm text-muted-foreground flex items-start">
-                        <span className="mr-2">•</span>
+                        <span className="mr-2 text-primary">•</span>
                         {req}
                       </li>
                     ))}
